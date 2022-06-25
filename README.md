@@ -15,3 +15,5 @@ As you can see it looks like besides the "TERP" and "RUN" stocks, every stock pe
 
 ![image](https://user-images.githubusercontent.com/106887052/175758425-375d5b60-d6b6-4666-8fef-6984c20fa76f.png)
 
+![image](https://user-images.githubusercontent.com/106887052/175758447-1ec65363-9440-4e44-a549-cab1c24a2752.png)
+
