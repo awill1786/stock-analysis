@@ -5,6 +5,6 @@ The purpose of this analysis is to compare the stock performances between the ye
 
 ## Results
 
-!Resources/VBA_challenge_original_2017.png
+https://github.com/awill1786/stock-analysis/blob/main/Resources/VBA_challenge_original_2017.png?raw=true
 
 ![This is an image](https://github.com/awill1786/stock-analysis/blob/main/Resources/VBA_challenge_original_2018.png
