@@ -19,3 +19,4 @@ This refactored code I used to attempt to get a faster result.
 
 ##### Refactored Code Results
 
+![image](https://user-images.githubusercontent.com/106887052/175758555-c5498fc2-fe28-448a-9ff9-b8106a8ebbfe.png)
