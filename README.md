@@ -17,6 +17,14 @@ This refactored code I used to attempt to get a faster result.
 
 ![image](https://user-images.githubusercontent.com/106887052/175758447-1ec65363-9440-4e44-a549-cab1c24a2752.png)
 
+
 ##### Refactored Code Results
 
 ![image](https://user-images.githubusercontent.com/106887052/175758555-c5498fc2-fe28-448a-9ff9-b8106a8ebbfe.png)
+
+![image](https://user-images.githubusercontent.com/106887052/175758570-5aa13f2c-d433-48bc-9e74-991af34c7014.png)
+
+The use of the refactored code has resulted in a much faster run time for the code, with 0.1328125 seconds for the year 2017 and 0.125 seconds for the year 2018.
+
+## Summary
+By establishing tickerIndex as a variable and setting it to equal 0, we are able to use tickerIndex and insert it into the formulas to run in the tickerVolumes, tickerStartingPrices and tickerEndingPrices arrays. Thus saving time, instead of the original code where it featured a nested loop. The advantage to having a code refactored is because since it takes takes less time to run, it is more efficient in preserving CPU power. One disadvantage I found was properly writing the code in order for it perform correctly. It feels like it increases the odds of one small mistep causing the code to not work, due to the code being a little more complicated.
